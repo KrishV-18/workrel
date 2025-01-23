@@ -10,12 +10,6 @@ I'm currently exploring the world of software development. While my location and
 
 html,css,ps,java,c,r,mysql
 
-## Top Projects
-
-- [workrel](https://github.com/KrishV-18/workrel)
-  - A collaborative tool for managing work relationships.
-  - ⭐ 0 stars | 🍴 0 forks | 🚪 0 open issues
-
 ## GitHub Stats
 
 Public Repositories: 1 | Followers: 0 | Following: 0
